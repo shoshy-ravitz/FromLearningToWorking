@@ -1,0 +1,13 @@
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.sourcelink.json
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\bin\Debug\net8.0\FromLearningToWorking.Core.deps.json
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\bin\Debug\net8.0\FromLearningToWorking.Core.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\bin\Debug\net8.0\FromLearningToWorking.Core.pdb
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\refint\FromLearningToWorking.Core.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\FromLearningToWorking.Core.pdb
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Core\obj\Debug\net8.0\ref\FromLearningToWorking.Core.dll

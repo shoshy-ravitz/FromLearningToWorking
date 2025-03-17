@@ -1,0 +1,16 @@
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.sourcelink.json
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\bin\Debug\net8.0\FromLearningToWorking.Service.deps.json
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\bin\Debug\net8.0\FromLearningToWorking.Service.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\bin\Debug\net8.0\FromLearningToWorking.Service.pdb
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\bin\Debug\net8.0\FromLearningToWorking.Core.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\bin\Debug\net8.0\FromLearningToWorking.Core.pdb
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLear.08F7B248.Up2Date
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\refint\FromLearningToWorking.Service.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\FromLearningToWorking.Service.pdb
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnIt.Service\obj\Debug\net8.0\ref\FromLearningToWorking.Service.dll
