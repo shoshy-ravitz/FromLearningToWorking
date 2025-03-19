@@ -45,8 +45,8 @@ namespace FromLearningToWorking.Data.Repository
                 PropertyInfo[] propertyInfos = entityType.GetProperties();
                 foreach (PropertyInfo propertyInfo in propertyInfos)
                 {
-                    // לא מעדכנים את המאפיינים Id ו-PasswordHash
-                    if (propertyInfo.Name != "Id" && propertyInfo.Name != "PasswordHash")
+                    // לא מעדכנים את המאפיינים Id ו-Password
+                    if (propertyInfo.Name != "Id" && propertyInfo.Name != "Password")
                     {
                         object value = propertyInfo.GetValue(entity);
                         if (value != null)

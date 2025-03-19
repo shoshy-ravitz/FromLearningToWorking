@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using FromLearningToWorking.Core.DTOs;
 using FromLearningToWorking.Core.Entities;
+using FromLearningToWorking.Core.models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,11 @@ namespace FromLearningToWorking.Core
             CreateMap<Manager, ManagerDTO>().ReverseMap();
             CreateMap<Interview, InterviewDTO>().ReverseMap();
             CreateMap<InterviewQuestion, InterviewQuestionDTO>().ReverseMap();
+
+            CreateMap<RegisterModel, User>().ReverseMap();
+            CreateMap<LoginModel, User>().ReverseMap();
+
+
         }
     }
 }

@@ -156,3 +156,5 @@ C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServe
 C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnItServer.Api\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnItServer.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnItServer.Api\obj\Debug\net8.0\FromLearningToWorking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnItServer.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\פרויקט\FromLearningToWorkingServer\WorkingOnItServer\WorkingOnItServer.Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll

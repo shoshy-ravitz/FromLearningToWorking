@@ -1,5 +1,6 @@
 ﻿using FromLearningToWorking.Core.DTOs;
 using FromLearningToWorking.Core.InterfaceService;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -8,6 +9,7 @@ namespace FromLearningToWorking.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class InterviewController(IInterviewService interviewService) : ControllerBase
     {
         private readonly IInterviewService _interviewService = interviewService;
@@ -48,6 +50,5 @@ namespace FromLearningToWorking.Api.Controllers
             return NoContent();
         }
     }
-
 }
 
